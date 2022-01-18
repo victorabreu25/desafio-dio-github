@@ -9,6 +9,8 @@
 | Completos<br />6 | Em andamento<br />1 | Incompletos<br /> 13 | Total<br />20 | Status<br />30% |
 | :--------------: | :-----------------: | :------------------: | :-----------: | --------------- |
 
+
+
 #### Curso(s) completo(s)
 
 - [x] 1. [Lógica de Programação Essencial](C:\workspace\desafio-dio-github\Introdução ao Git-GitHub\Introdução ao Git e ao GitHub.dm.txt)
