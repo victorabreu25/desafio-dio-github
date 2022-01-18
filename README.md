@@ -1,4 +1,4 @@
-<img src="C:\workspace\desafio-dio-github\Localiza.png" style="zoom:2%;" />
+<img src="https://github.com/victorabreu25/desafio-dio-github/blob/62cde812b74973e05749a5af260fefb7d6758b20/Localiza.png" style="zoom:1%;"/>
 
 
 
@@ -13,7 +13,7 @@
 
 #### Curso(s) completo(s)
 
-- [x] 1. [Lógica de Programação Essencial](C:\workspace\desafio-dio-github\Introdução ao Git-GitHub\Introdução ao Git e ao GitHub.dm.txt)
+- [x] 1. [Lógica de Programação Essencial](https://github.com/victorabreu25/desafio-dio-github/blob/62cde812b74973e05749a5af260fefb7d6758b20/Introdu%C3%A7%C3%A3o%20ao%20Git-GitHub/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial.md)
 - [x] 2. Aprenda o que são Estrutura de Dados e Algoritmos
 - [x] 3. Pensamento Computacional
 - [x] 4. Primeiros Passos Para Começar a Programar
