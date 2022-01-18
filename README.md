@@ -9,7 +9,7 @@
 
 #### Curso(s) completo(s)
 
-- [x] 1. [Lógica de Programação Essencial](https://github.com/victorabreu25/desafio-dio-github/blob/62cde812b74973e05749a5af260fefb7d6758b20/Introdu%C3%A7%C3%A3o%20ao%20Git-GitHub/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial.md)
+- [x] 1. Lógica de Programação Essencial
 - [x] 2. Aprenda o que são Estrutura de Dados e Algoritmos
 - [x] 3. Pensamento Computacional
 - [x] 4. Primeiros Passos Para Começar a Programar
