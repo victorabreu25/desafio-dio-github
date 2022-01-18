@@ -4,7 +4,7 @@
 
 
 
-| Instrutora: Juliana Mascarenhas<br />(Yennefer de Vengerberg) | <img src="C:\workspace\desafio-dio-github\Juliana Mascarenhas.jpg" /> |
+| Instrutora: Juliana Mascarenhas<br />(Yennefer de Vengerberg) | <img src="https://github.com/victorabreu25/desafio-dio-github/blob/9fa34b855b8e55355061ebad3351a6c052d6a14a/Juliana%20Mascarenhas.jpg" /> |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
 
 #### Visão geral do pensamento computacional
