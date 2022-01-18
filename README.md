@@ -6,14 +6,12 @@
 
 ##### Repositório criado para desafio DIO - GitHub
 
-| Completos<br />6 | Em andamento<br />1 | Incompletos<br /> 13 | Total<br />20 | `<td> {{ ((6/20)*100) }}%</td>` |
-| :--------------: | :-----------------: | :------------------: | :-----------: | ------------------------------- |
-
-
+| Completos<br />6 | Em andamento<br />1 | Incompletos<br /> 13 | Total<br />20 | Status<br />30% |
+| :--------------: | :-----------------: | :------------------: | :-----------: | --------------- |
 
 #### Curso(s) completo(s)
 
-- [x] 1. Lógica de Programação Essencial
+- [x] 1. [Lógica de Programação Essencial](C:\workspace\desafio-dio-github\Introdução ao Git-GitHub\Introdução ao Git e ao GitHub.dm.txt)
 - [x] 2. Aprenda o que são Estrutura de Dados e Algoritmos
 - [x] 3. Pensamento Computacional
 - [x] 4. Primeiros Passos Para Começar a Programar
