@@ -2,9 +2,9 @@
 
 ------
 
-| **Instrutor: Thiago Sano**<br />(Dr. Ethan Choi)        | **<img src="C:\workspace\desafio-dio-github\Thiago Sano.jpg" style="zoom:50%;" />** |
+| **Instrutor: Thiago Sano**<br />(Dr. Ethan Choi)        | **<img src="https://github.com/victorabreu25/desafio-dio-github/blob/f2a1fa21ace4b5b092d96de4f9a8351a11a5d11f/Thiago%20Sano.jpg" style="zoom:50%;" />** |
 | ------------------------------------------------------- | :----------------------------------------------------------: |
-| **Instrutor: Diego Pereira**<br />**(Roddy St. James)** | <img src="C:\workspace\desafio-dio-github\Diego Pereira.jpg" style="zoom:25%;" /> |
+| **Instrutor: Diego Pereira**<br />**(Roddy St. James)** | <img src="https://github.com/victorabreu25/desafio-dio-github/blob/f2a1fa21ace4b5b092d96de4f9a8351a11a5d11f/Diego%20Pereira.jpg" style="zoom:25%;" /> |
 
 #### Introdução ao SCRUM
 
