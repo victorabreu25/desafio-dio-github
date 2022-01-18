@@ -2,7 +2,7 @@
 
 ------
 
-| Instrutor: Otávio Reis<br />(Headphones) | <img src="C:\workspace\desafio-dio-github\Otávio Reis.jpg" style="zoom:10%;" /> |
+| Instrutor: Otávio Reis<br />(Headphones) | <img src="C:\workspace\desafio-dio-github\Otávio Reis.jpg"  /> |
 | ---------------------------------------- | :----------------------------------------------------------: |
 
 #### Introdução ao Git

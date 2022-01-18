@@ -4,7 +4,7 @@
 
  
 
-| **Instrutor:** Denilson Bonatti | <img src="C:\workspace\desafio-dio-github\download.jpg" alt="Denilson Bonatti" style="zoom:50%;" /> |
+| **Instrutor:** Denilson Bonatti | <img src="https://github.com/victorabreu25/desafio-dio-github/blob/a31b00c8034a1369ed5cb0ff66539711d89dfd97/download.jpg" alt="Denilson Bonatti" style="zoom:50%;" /> |
 | :------------------------------ | :----------------------------------------------------------: |
 
 

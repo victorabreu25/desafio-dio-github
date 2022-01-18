@@ -1,7 +1,3 @@
-<img src="C:\workspace\desafio-dio-github\Localiza.png" style="zoom:2%;" />
-
-
-
 # LocalizaLabs .NET Developer #2
 
 ##### Repositório criado para desafio DIO - GitHub
@@ -13,7 +9,7 @@
 
 #### Curso(s) completo(s)
 
-- [x] 1. [Lógica de Programação Essencial](C:\workspace\desafio-dio-github\Introdução ao Git-GitHub\Introdução ao Git e ao GitHub.dm.txt)
+- [x] 1. Lógica de Programação Essencial
 - [x] 2. Aprenda o que são Estrutura de Dados e Algoritmos
 - [x] 3. Pensamento Computacional
 - [x] 4. Primeiros Passos Para Começar a Programar

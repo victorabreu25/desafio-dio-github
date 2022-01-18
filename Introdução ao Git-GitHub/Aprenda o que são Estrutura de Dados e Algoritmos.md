@@ -2,7 +2,7 @@
 
 ------
 
-| Instrutor: Bruno de Campos<br />(Harry Potter) | <img src="C:\workspace\desafio-dio-github\Bruno de Campos.jpg" style="zoom:50%;" /> |
+| Instrutor: Bruno de Campos<br />(Harry Potter) | <img src="https://github.com/victorabreu25/desafio-dio-github/blob/b4a51276a0f0aa89c7d54f15526f5927bc0cfe4d/Bruno%20de%20Campos.jpg" style="zoom:50%;" /> |
 | ---------------------------------------------- | :----------------------------------------------------------: |
 
 
