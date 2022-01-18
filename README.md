@@ -6,7 +6,7 @@
 
 ##### Repositório criado para desafio DIO - GitHub
 
-| Completos<br />6 | Em andamento<br />1 | Incompletos<br /> 13 | Total<br />20 | `<td> {{ ((6/20)*100) }}%</td>` |
+| Completos<br />6 | Em andamento<br />1 | Incompletos<br /> 13 | Total<br />20 | Status<br />30%|
 | :--------------: | :-----------------: | :------------------: | :-----------: | ------------------------------- |
 
 
