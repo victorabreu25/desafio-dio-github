@@ -1,3 +1,5 @@
+<img src="https://github.com/victorabreu25/desafio-dio-github/blob/875fb9db625ef3f9b2d0d9fb6062f92df894d185/Localiza.png" /> 
+
 # LocalizaLabs .NET Developer #2
 
 ##### Repositório criado para desafio DIO - GitHub
